@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "nameItinerary": "Prueba",
+            "userName": "Prueba",
+            "userPhoto": "Prueba",
+            "price": "Prueba",
+            "duration": "Prueba",
+            "hashtags": "Prueba",
+            "like": "Prueba",
+            "cityId": "64a4aaeda22b32e74c0dacc6"
+        },
+        {
+            "nameItinerary": "Prueba",
+            "userName": "Prueba",
+            "userPhoto": "Prueba",
+            "price": "Prueba",
+            "duration": "Prueba",
+            "hashtags": "Prueba",
+            "like": "Prueba",
+            "cityId": "64a4aaeda22b32e74c0dacc9"
+        }
+    ]
+}
