@@ -59,7 +59,7 @@ const itinerariesControllers = {
     },
 
     addItinerary: async (req, res) => {
-        const { nameItinerary, userName, userPhoto, price, duration, hashtags, like, cityId } = req.body.data
+        const {cityId, cityName, nameItinerary, userName, userPhoto, price, duration, hashtags, like } = req.body.data
 
         let itinerary
         let error = null
@@ -67,6 +67,8 @@ const itinerariesControllers = {
             let verifyitinerary = await Itineraries.find({ nameItinerary: { $regex: itinerary.name, $options: "i" } })
             if (verifyitinerary.length == 0) {
                 itinerary = await new Itineraries({
+                    cityId: cityId,
+                    cityName:cityName,
                     nameItinerary: nameItinerary,
                     userName: userName,
                     userPhoto: userPhoto,
@@ -74,7 +76,7 @@ const itinerariesControllers = {
                     duration: duration,
                     hashtags: hashtags,
                     like: like,
-                    cityId: cityId,
+                    
                 }).save()
             } else {
                 error = "El itinerario ya existe en la BD con el id: " + verifyitinerary[0]._id
@@ -100,6 +102,9 @@ const itinerariesControllers = {
                 let verifyitinerary = await Itineraries.find({ nameItinerary: { $regex: itinerary.nameItinerary, $options: "i" } })
                 if (verifyitinerary.length == 0) {
                     let dataItinerary = {
+
+                        cityId: itinerary.cityId,
+                        cityName:itinerary.cityName,
                         nameItinerary: itinerary.nameItinerary,
                         userName: itinerary.userName,
                         userPhoto: itinerary.userPhoto,
@@ -107,7 +112,7 @@ const itinerariesControllers = {
                         duration: itinerary.duration,
                         hashtags: itinerary.hashtags,
                         like: itinerary.like,
-                        cityId: itinerary.cityId
+                        
                     }
                     await new Itineraries({
                         ...dataItinerary

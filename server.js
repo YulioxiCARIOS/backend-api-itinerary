@@ -21,8 +21,6 @@ app.use("/api", Routes)
      res.send(process.env.TEXT)
  })
     
- 
-
 app.listen(PORT,() => {
     console.log("EL SERVIDOR ESTA  CORRIENDO EN EL PUERTO: " + app.get("port")) 
 }) 
