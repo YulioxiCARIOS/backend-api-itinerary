@@ -59,7 +59,7 @@ const itinerariesControllers = {
     },
 
     addItinerary: async (req, res) => {
-        const {cityId, cityName, nameItinerary, userName, userPhoto, price, duration, hashtags, like } = req.body.data
+        const {cityId, cityName, nameItinerary, userName, userPhoto, price, duration, hashtags, likes } = req.body.data
 
         let itinerary
         let error = null
@@ -75,7 +75,7 @@ const itinerariesControllers = {
                     price: price,
                     duration: duration,
                     hashtags: hashtags,
-                    like: like,
+                    likes: likes,
                     
                 }).save()
             } else {
@@ -95,8 +95,9 @@ const itinerariesControllers = {
 
 
     addMultiplesItineraries: async (req, res) => {
-        let error = []
         let itineraries = []
+        let error = []
+       
         for (let itinerary of req.body.data) {
             try {
                 let verifyitinerary = await Itineraries.find({ nameItinerary: { $regex: itinerary.nameItinerary, $options: "i" } })
@@ -111,7 +112,7 @@ const itinerariesControllers = {
                         price: itinerary.price,
                         duration: itinerary.duration,
                         hashtags: itinerary.hashtags,
-                        like: itinerary.like,
+                        likes: itinerary.likes,
                         
                     }
                     await new Itineraries({

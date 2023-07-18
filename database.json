@@ -6,7 +6,7 @@
             "nameItinerary": "Explore the city of Amsterdam.",
             "userName": "Zoe Adams",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FZoe%20Adams.jfif?alt=media&token=05e20bb8-e017-40a2-b43b-8daf4186cf63",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#Amsterdam, #Netherlands, #Europe.",
             "likes": "49"
@@ -17,7 +17,7 @@
             "nameItinerary": "Get to know the center of Ancient Greece, one of the oldest civilizations.",
             "userName": "Sophia Brown",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FSophia%20Brown.jfif?alt=media&token=ffcf95ad-fc52-4f25-a709-cb4b9b107a13",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "1 Day",
             "hashtags": "#Athens, #Greece, #Europe.",
             "likes": "41"
@@ -28,7 +28,7 @@
             "nameItinerary": "Tour the most relevant infrastructures of Bangkok.",
             "userName": "Rose Clark",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FRose%20Clark.jfif?alt=media&token=cddce5d3-0110-419f-a8e9-30c1069a5582",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "2 Days",
             "hashtags": "#Bangkok, #Thailand, #Asia.",
             "likes": "39"
@@ -39,7 +39,7 @@
             "nameItinerary": "Learn about the historical events that marked the city of Berlin.",
             "userName": "William Carter",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FWilliam%20Carter.jfif?alt=media&token=2a702803-757a-419b-8f68-8ede6d27602a",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "1 Day",
             "hashtags": "#Berlin, #Germany, #Europe.",
             "likes": "47"
@@ -50,7 +50,7 @@
             "nameItinerary": "Explore the City of Fury.",
             "userName": "Rachel Collins",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FRachel%20Collins.jfif?alt=media&token=3fc77abf-b680-467c-998c-0c7d771a5054",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "2 Days",
             "hashtags": "#BuenosAires, #Argentina, #America.",
             "likes": "38"
@@ -61,7 +61,7 @@
             "nameItinerary": "Tour one of the most famous neighborhoods in Buenos Aires.",
             "userName": "Phoebe Edwards",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FPhoebe%20Edwards.jfif?alt=media&token=885898af-5957-4659-a2c7-9d79c921c080",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "2 Days",
             "hashtags": "BuenosAires, #Argentina, #America.",
             "likes": "36"
@@ -72,7 +72,7 @@
             "nameItinerary": "Discover the museums of Buenos Aires.",
             "userName": "Olivia Evans",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FOlivia%20Evans.jfif?alt=media&token=0b2d0ad1-3497-4fdb-98f5-58c86a122873",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "3 Days",
             "hashtags": "BuenosAires, #Argentina, #America.",
             "likes": "30"
@@ -83,7 +83,7 @@
             "nameItinerary": "Immerse yourself in the charm of Cairo.",
             "userName": "Thomas Davis",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FThomas%20Davis.jfif?alt=media&token=9aabe46c-56d1-45f5-98fa-53ae1cb83028",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "3 Days",
             "hashtags": "#Cairo, #Egypt, #Africa.",
             "likes": "31"
@@ -94,7 +94,7 @@
             "nameItinerary": "Tour the holy mosques of the city of Cairo.",
             "userName": "Michelle Green",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FMichelle%20Green.jfif?alt=media&token=c0dbc3a0-a7af-4a49-938a-c8c77960260b",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "3 Days",
             "hashtags": "#Cairo, #Egypt, #Africa.",
             "likes": "30"
@@ -105,7 +105,7 @@
             "nameItinerary": "Discover the luxurious city of Dubai.",
             "userName": "Megan Hall",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FMegan%20Hall.jfif?alt=media&token=af3d2914-0896-4b15-a02d-4bc6cfd48b13",
-            "price": "5 Tickets",
+            "price": 5,
             "duration": "1 Day",
             "hashtags": "#Dubai, #UnitedArabEmirates, #Asia.",
             "likes": "53"
@@ -116,7 +116,7 @@
             "nameItinerary": "Relax on the artificial island of Dubai.",
             "userName": "Richard García",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FRichard%20Garc%C3%ADa.jfif?alt=media&token=83b3a0d9-6d39-46dd-817d-28b801a1807c",
-            "price": "4 Tickets",
+            "price":4,
             "duration": "1 Day",
             "hashtags": "#Dubai, #UnitedArabEmirates, #Asia.",
             "likes": "49"
@@ -127,7 +127,7 @@
             "nameItinerary": "Discover the urban life that unfolds in bustling Hong Kong.",
             "userName": "Mary Jones",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FMary%20Jones.jfif?alt=media&token=8b8eb335-e1cb-4dfa-809a-e582d4d7e876",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#Hong Kong, #Chinese, #Asia",
             "likes": "42"
@@ -138,7 +138,7 @@
             "nameItinerary": "Explore the history and fight for equality of the city of Johannesburg.",
             "userName": "Paul Jackson",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FPaul%20Jackson.jfif?alt=media&token=7a19fa1c-6935-48e5-862f-ac393424681c",
-            "price": "1 Ticket",
+            "price": 1,
             "duration": "2 Days",
             "hashtags": "#Johannesburg, #SouthAfrica, #Africa.",
             "likes": "18"
@@ -149,7 +149,7 @@
             "nameItinerary": "Discover the wonders of London sailing on the Thames.",
             "userName": "Michael King",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FMichael%20King.jfif?alt=media&token=737670ad-7a12-4fb1-846a-4cd254f34cfe",
-            "price": "5 Tickets",
+            "price": 5,
             "duration": "1 Day",
             "hashtags": "#London, #UnitedKingdom, #Europe.",
             "likes": "55"
@@ -160,7 +160,7 @@
             "nameItinerary": "Tour the main tourist spots in London.",
             "userName": "Kevin Lewis",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FKevin%20Lewis.jfif?alt=media&token=89598893-8bce-4bfa-9b5e-c800b091066f",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#London, #UnitedKingdom, #Europe.",
             "likes": "48"
@@ -171,7 +171,7 @@
             "nameItinerary": "Walk through the most important squares and streets of Madrid.",
             "userName": "Kelly Lee",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FKelly%20Lee.jfif?alt=media&token=1df8e90f-8a0b-4395-a7ea-dbd86278ae94",
-            "price": "5 Tickets",
+            "price": 5,
             "duration": "1 Day",
             "hashtags": "#Madrid, #Spain, #Europe.",
             "likes": "54"
@@ -182,7 +182,7 @@
             "nameItinerary": "Visit the main infrastructures of Madrid.",
             "userName": "Kathleen Martin",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FKathleen%20Martin.jfif?alt=media&token=a3e77162-348b-4fab-8607-3fce2d2a2601",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "3 Days",
             "hashtags": "#Madrid, #Spain, #Europe.",
             "likes": "35"
@@ -193,7 +193,7 @@
             "nameItinerary": "Connect with the nature of El Retiro Park.",
             "userName": "James Miller",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FJames%20Miller.jfif?alt=media&token=36aec72f-bed8-43ed-99e2-5025553a6494",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "1 Day",
             "hashtags": "#Madrid, #Spain, #Europe.",
             "likes": "34"
@@ -204,7 +204,7 @@
             "nameItinerary": "Explore the cultural treasures of the historic center of Mexico City.",
             "userName": "Janet Mitchell",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FJanet%20Mitchell.jfif?alt=media&token=ca4bbe8a-ef15-495b-a34e-9b93b0d2f805",
-            "price": "2 Tickets",
+            "price": 2,
             "duration": "2 Days",
             "hashtags": "#MexicoCity, #Mexico, #America.",
             "likes": "28"
@@ -215,7 +215,7 @@
             "nameItinerary": "Get to know Mexico City.",
             "userName": "George Moore",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FGeorge%20Moore.jfif?alt=media&token=55e5b8e3-6f11-4be4-903c-87e1fc30ab85",
-            "price": "2 Tickets",
+            "price": 2,
             "duration": "3 Days",
             "hashtags": "#MexicoCity, #Mexico, #America.",
             "likes": "25"
@@ -226,7 +226,7 @@
             "nameItinerary": "Experience the vibrant city of New Delhi.",
             "userName": "Heather Parker",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FHeather%20Parker.jfif?alt=media&token=c4a45327-29ce-4746-ac29-6b8530b6bde0",
-            "price": "2 Tickets",
+            "price": 2,
             "duration": "2 Days",
             "hashtags": "#NewDelhi, #India, #Asia.",
             "likes": "23"
@@ -237,7 +237,7 @@
             "nameItinerary": "Explore the Big Apple.",
             "userName": "Frank Phillips",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FFrank%20Phillips.jfif?alt=media&token=b26d4327-312b-4425-a956-5e6bdab576fc",
-            "price": "5 Tickets",
+            "price": 5,
             "duration": "3 Days",
             "hashtags": "#NewYork, #UnitedStates, #America.",
             "likes": "51"
@@ -248,7 +248,7 @@
             "nameItinerary": "Tour Midtown Manhattan New York, Part 1.",
             "userName": "Grace Roberts",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FGrace%20Roberts.jfif?alt=media&token=34fe2c1d-2659-4ee0-be4b-1896eb13a519",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "1 Day",
             "hashtags": "#NewYork, #UnitedStates, #America.",
             "likes": "44"
@@ -259,7 +259,7 @@
             "nameItinerary": "Tour Midtown Manhattan New York, Part 2.",
             "userName": "Edward Robinson",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FEdward%20Robinson.jfif?alt=media&token=9503d63f-8b76-442e-ae86-99491f348891",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#NewYork, #UnitedStates, #America.",
             "likes": "40"
@@ -270,7 +270,7 @@
             "nameItinerary": "Discover the beauty of Paris.",
             "userName": "Elizabeth Scott",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FElizabeth%20Scott.jfif?alt=media&token=d2a5b8e5-794e-40ee-bcaf-344185f442a2",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#Paris, #France, #Europe.",
             "likes": "45"
@@ -281,7 +281,7 @@
             "nameItinerary": "Relax on the beaches and with panoramic views of Rio de Janeiro.",
             "userName": "David Smith",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FDavid%20Smith.jfif?alt=media&token=70fb70ed-78c2-420c-ace4-7e969f88100e",
-            "price": "3 Tickets",
+            "price":3,
             "duration": "4 Days",
             "hashtags": "#RioDeJaneiro, #Brazil, #America.",
             "likes": "32"
@@ -292,7 +292,7 @@
             "nameItinerary": "Be fascinated by the majesty of the Eternal City.",
             "userName": "Charlotte Thomas",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FCharlotte%20Thomas.jfif?alt=media&token=04e6d51f-424c-486c-960e-a7b528cc4c05",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#Rome, #Italy, #Europe.",
             "likes": "45"
@@ -303,7 +303,7 @@
             "nameItinerary": "Enjoy the iconic beauty of Sydney Harbor.",
             "userName": "Christopher Thompson",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FChristopher%20Thompson.jfif?alt=media&token=9ba46df8-6c38-4088-a011-6e585dd2d917",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "2 Days",
             "hashtags": "#Sydney, #Australia, #Oceania.",
             "likes": "35"
@@ -314,7 +314,7 @@
             "nameItinerary": "Immerse yourself inside the largest metropolis in the world.",
             "userName": "Brooke White",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FBrooke%20White.jfif?alt=media&token=4397b8a8-6dd0-48b5-8f91-23f67b1f836e",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "2 Days",
             "hashtags": "#Tokyo, #Japan, #Asia.",
             "likes": "46"
@@ -325,7 +325,7 @@
             "nameItinerary": "Connect with the spirituality of the temples of Tokyo.",
             "userName": "Anthony Young",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FAnthony%20Young.jfif?alt=media&token=6f30a6a9-4d48-4b22-98d1-0be9c2dfd056",
-            "price": "4 Tickets",
+            "price": 4,
             "duration": "3 Days",
             "hashtags": "#Tokyo, #Japan, #Asia.",
             "likes": "43"
@@ -336,7 +336,7 @@
             "nameItinerary": "Getaway Tour to Toronto, Part 1.",
             "userName": "Brian Williams",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FBrian%20Williams.jfif?alt=media&token=f476f58f-ee64-4720-b7da-097c3dd9e8f4",
-            "price": "3 Tickets",
+            "price": 4,
             "duration": "1 Day",
             "hashtags": "#Toronto, #Canada, #America.",
             "likes": "39"
@@ -347,7 +347,7 @@
             "nameItinerary": " Getaway Tour to Toronto, Part 2.",
             "userName": "Anna  Wright",
             "userPhoto": "https://firebasestorage.googleapis.com/v0/b/mytinerary-1fb0d.appspot.com/o/Users%2FAnna%20Wright.jfif?alt=media&token=df77d45f-a0d2-4005-9c24-bb91d52ee494",
-            "price": "3 Tickets",
+            "price": 3,
             "duration": "3 Days",
             "hashtags": "#Toronto, #Canada, #America.",
             "likes": "37"

@@ -11,6 +11,7 @@ const PORT = process.env.PORT || 5000;  //Puerto donde se inicializa nuestro ser
  
 app.set("port",PORT);
 
+
 //middelwares
 app.use(cors())
 app.use(express.json())
@@ -24,3 +25,5 @@ app.use("/api", Routes)
 app.listen(PORT,() => {
     console.log("EL SERVIDOR ESTA  CORRIENDO EN EL PUERTO: " + app.get("port")) 
 }) 
+
+
